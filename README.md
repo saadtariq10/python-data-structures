@@ -32,6 +32,11 @@ The booklet is intended for both beginners and those looking to refresh their kn
 ## Getting Started
 You can download or clone this repository to access the booklet. It is available in PDF and DOCX formats.
 
+# Display the link to the uploaded booklet
+booklet_link = "https://drive.google.com/drive/folders/1lsBVqVoQ4EzMQLHVf_NGeFxrC9Xbsinz?usp=sharing"
+print(f"Check out the booklet here: {booklet_link}")
+
+
 ```bash
 git clone https://github.com/saadtariq10/Data-Structures-and-Algorithms-Booklet.git
 >>>>>>> 1fa16617d6eb641c0fe42cde77d241957682fad8
