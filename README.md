@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Data Structures and Algorithms Booklet
 
 ## Overview
